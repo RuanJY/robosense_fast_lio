@@ -40,6 +40,13 @@ or
 roslaunch fast_lio mapping_robosenseE1R.launch
 ```
 
+or
+
+```
+roslaunch fast_lio mapping_robosenseAiry.launch
+```
+
+
 ## Original readme:
 
 ## Related Works and Extended Application
